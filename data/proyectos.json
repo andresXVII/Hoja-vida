@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Hoja de vida web",
+    "categoria": "web",
+    "descripcion": "Mi hoja de vida en HTML y CSS convertida en un sitio interactivo.",
+    "tecnologias": "HTML · CSS · JavaScript"
+  },
+  {
+    "titulo": "Mantenimiento de equipos",
+    "categoria": "hardware",
+    "descripcion": "Prácticas de mantenimiento preventivo y correctivo de computadores.",
+    "tecnologias": "Hardware · Windows"
+  },
+  {
+    "titulo": "Curso de ciberseguridad",
+    "categoria": "seguridad",
+    "descripcion": "Buenas prácticas para proteger información.",
+    "tecnologias": "Seguridad · Redes"
+  }
+]
